@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Full Stack Developer | Aspiriing AI/ML Engineer | [New Delhi]</h3>
+<h3 align="left">Full Stack Developer | Aspiriing AI/ML Engineer | New Delhi</h3>
 
 ###
 
@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Django/Django-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
