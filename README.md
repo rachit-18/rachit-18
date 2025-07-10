@@ -6,6 +6,10 @@
 
 ###
 
+<img src="https://wallpaperaccess.com/full/14118154.png" height="100" alt="img" />
+
+###
+
 <h2 align="left">👨‍💻 About Me</h2>
 
 ###
