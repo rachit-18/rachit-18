@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Full Stack Developer | Aspiriing AI/ML Engineer | New Delhi</h3>
+<h3 align="left">Full Stack Developer | Aspiring AI/ML Engineer | New Delhi</h3>
 
 ###
 
